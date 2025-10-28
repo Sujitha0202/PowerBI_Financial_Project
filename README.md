@@ -8,7 +8,7 @@ This project focuses on analyzing financial sales and profit data using Power BI
 It includes interactive dashboards, KPIs, and visual insights designed to showcase data analytics and visualization skills.
 
 Dataset
-Dataset used: Financial Dataset (Google Sheets)
+Dataset used: Financial Dataset (Google Sheets) https://docs.google.com/spreadsheets/d/1kmZtwNrw9_M0WtZSqfjK89xXlAYUXTzr/edit?usp=sharing&ouid=108249843804995578592&rtpof=true&sd=true 
 
 Steps Performed:
 - Imported and cleaned data in Power BI
